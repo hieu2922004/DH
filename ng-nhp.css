@@ -1,0 +1,385 @@
+.ng-nhp-child,
+.ng-nhp-item {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.ng-nhp-child {
+  top: 0;
+  background-color: var(--color-gainsboro);
+  height: 741px;
+}
+.ng-nhp-item {
+  top: 101px;
+  height: 594px;
+  object-fit: cover;
+}
+.ng-k-trong1,
+.ng-nhp-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 101px;
+}
+.ng-k-trong1 {
+  top: 146px;
+  left: 426px;
+  width: 588px;
+  height: 503px;
+}
+.mt-khu1,
+.ng-nhp1,
+.tn-ti-khon {
+  position: absolute;
+  top: 257px;
+  left: 522px;
+  font-size: var(--font-size-xl);
+}
+.mt-khu1,
+.ng-nhp1 {
+  top: 351px;
+}
+.ng-nhp1 {
+  top: 206px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.ng-nhp-child1,
+.ng-nhp-child2 {
+  position: absolute;
+  top: 288px;
+  left: 522px;
+  width: 396px;
+  height: 46px;
+  overflow: hidden;
+}
+.ng-nhp-child2 {
+  top: 382px;
+}
+.group-child13,
+.group-child14 {
+  position: absolute;
+  top: 0;
+  width: 158px;
+  height: 59px;
+}
+.group-child13 {
+  left: 0;
+  background-color: #120f0f;
+}
+.group-child14 {
+  left: 194px;
+  background-color: rgba(18, 15, 15, 0.63);
+}
+.ng-nhp3,
+.ng-nhp4 {
+  position: absolute;
+  top: 18px;
+  left: 26px;
+  font-weight: 800;
+}
+.ng-nhp4 {
+  left: 220px;
+}
+.group-wrapper1,
+.ng-nhp-inner1,
+.ng-nhp2,
+.rectangle-parent22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 352px;
+  height: 59px;
+}
+.ng-nhp2 {
+  top: 476px;
+  left: 518px;
+  width: 158px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.seven4 {
+  position: absolute;
+  top: 34px;
+  left: 21px;
+  font-size: var(--font-size-13xl);
+  font-weight: 900;
+  color: var(--color-darkslateblue);
+}
+.new9,
+.p11 {
+  margin: 0;
+}
+.p11 {
+  font-size: var(--font-size-5xl);
+}
+.new8 {
+  position: absolute;
+  top: 14px;
+  left: 37px;
+  font-weight: 900;
+  color: var(--color-darkslateblue);
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+}
+.ng-nhp-child3 {
+  position: absolute;
+  top: 26px;
+  left: 106px;
+  border-radius: 50%;
+  background-color: var(--color-snow);
+  width: 12px;
+  height: 11px;
+}
+.r4 {
+  position: absolute;
+  top: 25px;
+  left: 109px;
+  font-size: var(--font-size-3xs);
+  font-weight: 900;
+  color: var(--color-darkslateblue);
+  display: inline-block;
+  width: 8px;
+  height: 9px;
+}
+.home8,
+.home9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.home9 {
+  left: 105px;
+  color: var(--color-gray-300);
+}
+.home-parent2,
+.ng-nhp-inner2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 179px;
+  height: 29px;
+}
+.ng-nhp-inner2 {
+  top: 31px;
+  left: 273px;
+  width: 74px;
+  overflow: hidden;
+}
+.group-child15,
+.shop8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child15 {
+  top: 17px;
+  left: 67px;
+  width: 11px;
+  height: 6.3px;
+}
+.shop-parent6,
+.shop9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.shop-parent6 {
+  width: 78px;
+  height: 29px;
+}
+.shop9 {
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.5), 0 1px 0 rgba(0, 0, 0, 0.5),
+    -1px 0 0 rgba(0, 0, 0, 0.5), 0-1px 0 rgba(0, 0, 0, 0.5);
+}
+.group-child16,
+.shop-parent7 {
+  position: absolute;
+  top: 17px;
+  left: 67px;
+  width: 11px;
+  height: 6.3px;
+}
+.shop-parent7 {
+  top: 0;
+  left: 97px;
+  width: 78px;
+  height: 29px;
+  color: var(--color-gray-400);
+}
+.group-parent6,
+.ng-nhp-inner3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 175px;
+  height: 29px;
+}
+.ng-nhp-inner3 {
+  top: 30px;
+  left: 397px;
+  width: 78px;
+  overflow: hidden;
+}
+.contact8,
+.contact9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.contact9 {
+  left: 146px;
+  color: var(--color-gray-400);
+}
+.contact-parent2,
+.ng-nhp-inner4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 262px;
+  height: 29px;
+}
+.ng-nhp-inner4 {
+  top: 31px;
+  left: 514px;
+  width: 116px;
+  overflow: hidden;
+}
+.group8,
+.group9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group9 {
+  left: 94px;
+  color: var(--color-gray-400);
+}
+.group-parent7,
+.ng-nhp-inner5 {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 179px;
+  height: 29px;
+}
+.ng-nhp-inner5 {
+  top: 31px;
+  left: 675px;
+  width: 94px;
+  overflow: hidden;
+}
+.group-child17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-500);
+  width: 338px;
+  height: 60px;
+}
+.tm-kim-sn4 {
+  position: absolute;
+  top: 21px;
+  left: 21px;
+  display: inline-block;
+  width: 193px;
+  height: 9px;
+}
+.group-child18 {
+  position: absolute;
+  top: 17px;
+  left: 291px;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.rectangle-parent23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 338px;
+  height: 60px;
+}
+.group-child19 {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-600);
+}
+.group-child19,
+.group-parent8,
+.group-wrapper2,
+.rectangle-wrapper3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 338px;
+  height: 60px;
+}
+.group-parent8,
+.group-wrapper2 {
+  left: 367px;
+}
+.group-parent8 {
+  left: 0;
+  width: 705px;
+}
+.ng-nhp-child4,
+.ng-nhp-inner6 {
+  position: absolute;
+  overflow: hidden;
+}
+.ng-nhp-inner6 {
+  top: 13px;
+  left: 796px;
+  width: 338px;
+  height: 60px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.ng-nhp-child4 {
+  top: 30px;
+  left: 1377px;
+  width: 26px;
+  height: 26px;
+}
+.male-user-icon8,
+.male-user-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.male-user-icon9 {
+  left: 55px;
+}
+.male-user-parent2,
+.ng-nhp-inner7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 81px;
+  height: 26px;
+}
+.ng-nhp-inner7 {
+  top: 30px;
+  left: 1330px;
+  width: 26px;
+  overflow: hidden;
+}
+.ng-nhp {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 741px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
